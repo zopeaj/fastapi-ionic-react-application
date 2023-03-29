@@ -1,0 +1,3 @@
+class ItemOrder
+    item
+    quantity
